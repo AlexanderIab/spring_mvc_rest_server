@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.iablonski.mvc.rest</groupId>
+    <groupId>com.iablonski.spring.mvc.rest.server</groupId>
     <artifactId>spring_mvc_rest_server</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>spring_mvc_rest_server Maven Webapp</name>
+    <name>spring_mvc_rest_server</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -80,7 +80,7 @@
 
 
     <build>
-        <finalName>spring_mvc_rest</finalName>
+        <finalName>spring_mvc_rest_server</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
