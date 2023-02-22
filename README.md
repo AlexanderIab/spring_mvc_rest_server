@@ -3,6 +3,7 @@
 This small, simple project is designed to practice and use skills.<br>
 This program is the server part, the client part: https://github.com/AlexanderIab/spring_mvc_rest_client <br>
 The client part communicates with the server using Rest API.<br>
+Data is received and written to a local database.<br>
 The program supports all CRUD operations.
 <br>
 
